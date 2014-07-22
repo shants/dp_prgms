@@ -3,12 +3,19 @@ This directory contains solutions to common dymanic programming problems
 File Name : <problem>
 
 AvoidRoads.cc : From topcoder tutorial  on dp
+
 coin.cpp : from topcoder tutorial , given coins how to form a number
+
 longest_substring.cpp : given two substring, how to find longest common substring 
+
 min2palin.cpp : given a string, min no changes to convert string to a palindrome
+
 shuffle.cpp : skiena book, exercise question
+
 string_edit_dist.cpp : edit distance between two string
+
 longest_inc_seq.cpp : longest inc sequence in a vector
+
 
 Some good resources for reading 
 
