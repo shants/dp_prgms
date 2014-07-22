@@ -8,7 +8,7 @@ longest_substring.cpp : given two substring, how to find longest common substrin
 min2palin.cpp : given a string, min no changes to convert string to a palindrome
 shuffle.cpp : skiena book, exercise question
 string_edit_dist.cpp : edit distance between two string
-
+longest_inc_seq.cpp : longest inc sequence in a vector
 
 Some good resources for reading 
 
