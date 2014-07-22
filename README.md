@@ -1,4 +1,4 @@
-This directory contains solutions to common dymanic programming problems
+This directory contains solutions to common dynanic programming problems
 
 File Name : <problem>
 
