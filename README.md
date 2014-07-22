@@ -16,6 +16,8 @@ string_edit_dist.cpp : edit distance between two string
 
 longest_inc_seq.cpp : longest inc sequence in a vector
 
+subset.cpp : given numbers in vector, find if there exists a subset which has sum = X ( input )
+
 
 Some good resources for reading 
 
